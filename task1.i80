@@ -1,4 +1,6 @@
 org 0800
+mvi b,12
+mvi h,3
 mov a,b
 sub h
 mov c,a
