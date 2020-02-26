@@ -1,0 +1,7 @@
+org 0800
+mvi c,2a
+mvi b,16
+mov a,c
+add b
+mov b,a
+hlt
