@@ -1,0 +1,5 @@
+org 0800
+mov a,b
+sub h
+mov c,a
+hlt
