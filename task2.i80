@@ -1,0 +1,7 @@
+org 0800
+mvi d,11
+mvi e,12
+mvi h,13
+mvi l,14
+XCHG
+hlt
