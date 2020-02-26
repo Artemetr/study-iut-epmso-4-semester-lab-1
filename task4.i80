@@ -1,0 +1,7 @@
+org 0800
+lda 0900
+mov b,a
+lda 0901
+add b
+mov b,a
+hlt
